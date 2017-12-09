@@ -1,0 +1,10 @@
+com\oracle\qa\crm\pages\SignUp.class
+com\oracle\qa\crm\pages\LoginPage.class
+com\oracle\qa\crm\pages\HomePage.class
+com\oracle\qa\crm\pages\TasksPage.class
+com\oracle\qa\crm\utility\WebEventListener.class
+com\oracle\qa\crm\pages\DealsPage.class
+com\oracle\qa\crm\pages\ContactsPage.class
+com\oracle\qa\crm\base\TestBase.class
+com\oracle\qa\crm\ExtentReportListener\ExtentReportListener.class
+com\oracle\qa\crm\utility\TestUtil.class
